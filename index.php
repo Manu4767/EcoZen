@@ -73,15 +73,16 @@
             </div>
         </div>
         <div class=" row d-flex flex-row justify-content-center align-items-center" style=" height: 70vh;">
-            <div class=" col-6 our_story_image" style=" height: 70vh;"></div>
-            <div class=" col-6 bg-success" style=" height: 70vh;">
-                <h1>dfgdfg</h1>
+            
+            <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center" style=" height: 70vh; background-color:rgba(245,245,245,255);">
+                <h1 >Our Story</h1>
                 <p>dfggf</p>
                 <p>dfggf</p>
                 <p>dfggf</p>
                 <p>dfggf</p>
                 <p>dfggf</p>
             </div>
+            <div class=" col-6 our_story_image" style=" height: 70vh;"></div>
         </div>
         <div class=" row mb-5 shadow-lg py-5">
             <h3 class=" text-center col-12 text-success fw-bold mb-4">I am a ...</h3>

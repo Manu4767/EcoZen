@@ -118,9 +118,9 @@ body {
 .our_story_image{
   height: 100%;
   /* width: 100%; */
-  background-image:url("Resources/Site_Images/Lemon_-removebg-preview.png");
+  background-image:url("Resources/Site_Images/Orange\,\ Plouf\,\ De\ Leau\ PNG\,\ Orange\ Dans\ Peu\ Deau\ Isolé\ Images\ vectorielles\,\ fichiers\ PSD.jpeg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
