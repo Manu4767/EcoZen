@@ -131,6 +131,9 @@ body {
   background-size: cover;
   background-position: center;
 }
+.our_story{
+  height: 70vh;
+}
 
 @media (max-width: 768px) {
   .images {
@@ -138,5 +141,8 @@ body {
   }
   .main_image_row {
     height: 135vh;
+  }
+  .our_story{
+    height: 90vh;
   }
 }

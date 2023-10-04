@@ -72,36 +72,36 @@
                 </div>
             </div>
         </div>
-        <div class=" row d-flex flex-row justify-content-center align-items-center shadow-lg" style=" height: 70vh;">
-            <div class=" col-4 our_story_image" style=" height: 70vh;"></div>
-            <div class=" col-8 bg-white d-flex flex-column justify-content-center align-items-center" style=" height: 70vh; ">
-                <h1 class=" text-success mb-3">Welcome to EcoZen</h1>
-                <h2>Our Story</h2>
-                <p class=" text-center mt-3 text-black-50">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur laboriosam dolorem quas corrupti placeat earum ratione perferendis asperiores quod architecto ex repudiandae deleniti illo, et ipsa ab dolorum doloribus recusandae?</p>
+        <div class=" row">
+            <div class="col-12 p-0 bg-black  d-flex flex-lg-row flex-column justify-content-center align-items-center shadow-lg ">
+                <div class=" col-12 col-lg-4 our_story_image " style=" height: 70vh;"></div>
+                <div class="col-12 col-lg-8 bg-white d-flex flex-column justify-content-center align-items-center our_story">
+                    <h1 class=" text-success mb-3">Welcome to EcoZen</h1>
+                    <h2>Our Story</h2>
+                    <p class=" text-center mt-3 text-black-50">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur laboriosam dolorem quas corrupti placeat earum ratione perferendis asperiores quod architecto ex repudiandae deleniti illo, et ipsa ab dolorum doloribus recusandae?</p>
 
-                <div class=" d-flex flex-column">
-                <div class=" d-flex flex-row justify-content-start col-8 mt-3">
-                    <div class=" our_story_icon col-1"></div>
-                    <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
-                        <p class="  px-3 text-black-50">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, facilis.</p>
+                    <div class=" d-flex flex-column col-12">
+                        <div class=" d-flex flex-row justify-content-start col-lg-8 col-12 mt-3 mx-4 mx-lg-0">
+                            <div class=" our_story_icon col-1"></div>
+                            <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
+                                <p class="  px-3 text-black-50">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, facilis.</p>
+                            </div>
+                        </div>
+                        <div class=" d-flex flex-row justify-content-start col-lg-8 col-12 mt-3 mx-4 mx-lg-0">
+                            <div class=" our_story_icon col-1"></div>
+                            <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
+                                <p class="  px-3 text-black-50">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, facilis.</p>
+                            </div>
+                        </div>
+                        <div class=" d-flex flex-row justify-content-start col-lg-8 col-12 mt-3 mx-4 mx-lg-0">
+                            <div class=" our_story_icon col-1"></div>
+                            <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
+                                <p class="  px-3 text-black-50">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, facilis.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class=" d-flex flex-row justify-content-start col-8 my-3">
-                    <div class=" our_story_icon col-1"></div>
-                    <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
-                        <p class="  px-3 text-black-50">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi, laboriosam.</p>
-                    </div>
-                </div>
-                <div class=" d-flex flex-row justify-content-start col-8">
-                    <div class=" our_story_icon col-1"></div>
-                    <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
-                        <p class="  px-3 text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, recusandae?</p>
-                    </div>
-                </div>
-                </div>
-
             </div>
-
         </div>
         <div class=" row mb-5  py-5">
             <h3 class=" text-center col-12 text-success fw-bold mb-4">I am a ...</h3>
