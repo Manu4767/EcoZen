@@ -72,17 +72,18 @@
                 </div>
             </div>
         </div>
-        <div class=" row mb-5">
+        <div class=" row mb-5 shadow-lg py-5">
+            <h3 class=" text-center col-12 text-success fw-bold mb-4">I am a ...</h3>
             <div class=" col-12 shadow-lg col-lg-6 offset-0 offset-lg-3 d-flex flex-row justify-content-center align-items-center px-0" style="height: 40vh;">
-                <div class=" col-6 bg-success d-flex flex-column justify-content-center align-items-center py-4" style="height: 40vh;">
-                    <h4 class=" text-center">zsscv</h4>
-                    <p class=" text-center">xcv</p>
-                    <button class=" btn btn-primary">dfgdg</button>
+                <div class=" col-6 bg-success d-flex flex-column justify-content-center align-items-center p-4" style="height: 40vh;">
+                    <h4 class=" text-center text-white">Farmer</h4>
+                    <p class=" text-center text-white">Lorem ipsum dolor sit amet.</p>
+                    <button class=" btn btn-light text-success fw-bold fs-5">Sign In</button>
                 </div>
-                <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center py-4" style="height: 40vh;">
-                    <h4 class=" text-center">zsscv</h4>
-                    <p class=" text-center">xcv</p>
-                    <button class=" btn btn-primary">dfgdg</button>
+                <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center p-4" style="height: 40vh;">
+                    <h4 class=" text-center text-success">Buyer</h4>
+                    <p class=" text-center text-success fw-bold">onsectetur adipisicing elit. Molestias, omnis!</p>
+                    <button class=" btn text-white btn-success fw-bold fs-5">Sign In</button>
                 </div>
             </div>
         </div>
