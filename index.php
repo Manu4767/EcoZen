@@ -74,7 +74,7 @@
         </div>
         <div class=" row d-flex flex-row justify-content-center align-items-center" style=" height: 70vh;">
             
-            <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center" style=" height: 70vh; background-color:rgba(245,245,245,255);">
+            <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center" style=" height: 70vh; background-color:#f9f9f4;">
                 <h1 >Our Story</h1>
                 <p>dfggf</p>
                 <p>dfggf</p>
