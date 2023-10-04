@@ -75,27 +75,27 @@
         <div class=" row d-flex flex-row justify-content-center align-items-center shadow-lg" style=" height: 70vh;">
             <div class=" col-4 our_story_image" style=" height: 70vh;"></div>
             <div class=" col-8 bg-white d-flex flex-column justify-content-center align-items-center" style=" height: 70vh; ">
-                <h1 class=" text-success">Welcome to EcoZen</h1>
+                <h1 class=" text-success mb-3">Welcome to EcoZen</h1>
                 <h2>Our Story</h2>
-                <p class=" text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur laboriosam dolorem quas corrupti placeat earum ratione perferendis asperiores quod architecto ex repudiandae deleniti illo, et ipsa ab dolorum doloribus recusandae?</p>
+                <p class=" text-center mt-3 text-black-50">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur laboriosam dolorem quas corrupti placeat earum ratione perferendis asperiores quod architecto ex repudiandae deleniti illo, et ipsa ab dolorum doloribus recusandae?</p>
 
                 <div class=" d-flex flex-column">
-                <div class=" d-flex flex-row justify-content-start col-8">
+                <div class=" d-flex flex-row justify-content-start col-8 mt-3">
                     <div class=" our_story_icon col-1"></div>
-                    <div class=" col-3  justify-content-start align-items-center">
-                        <p class=" text-center px-3">dsffsfsdsdf</p>
+                    <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
+                        <p class="  px-3 text-black-50">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, facilis.</p>
+                    </div>
+                </div>
+                <div class=" d-flex flex-row justify-content-start col-8 my-3">
+                    <div class=" our_story_icon col-1"></div>
+                    <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
+                        <p class="  px-3 text-black-50">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi, laboriosam.</p>
                     </div>
                 </div>
                 <div class=" d-flex flex-row justify-content-start col-8">
                     <div class=" our_story_icon col-1"></div>
-                    <div class=" col-3  justify-content-start align-items-center">
-                        <p class=" text-center px-3">dsffsfsdsdf</p>
-                    </div>
-                </div>
-                <div class=" d-flex flex-row justify-content-start col-8">
-                    <div class=" our_story_icon col-1"></div>
-                    <div class=" col-3  justify-content-start align-items-center">
-                        <p class=" text-center px-3">dsffsfsdsdf</p>
+                    <div class=" col-11 d-flex flex-row justify-content-start align-items-center">
+                        <p class="  px-3 text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, recusandae?</p>
                     </div>
                 </div>
                 </div>
@@ -105,13 +105,13 @@
         </div>
         <div class=" row mb-5  py-5">
             <h3 class=" text-center col-12 text-success fw-bold mb-4">I am a ...</h3>
-            <div class=" col-12 shadow-lg col-lg-6 offset-0 offset-lg-3 d-flex flex-row justify-content-center align-items-center px-0" style="height: 40vh;">
-                <div class=" col-6 bg-success d-flex flex-column justify-content-center align-items-center p-4" style="height: 40vh;">
+            <div class=" col-12 shadow-lg col-lg-8 offset-0 offset-lg-2 d-flex flex-row justify-content-center align-items-center px-0" style="height: 60vh;">
+                <div class=" col-6 bg-success d-flex flex-column justify-content-center align-items-center p-4" style="height: 60vh;">
                     <h4 class=" text-center text-white">Farmer</h4>
                     <p class=" text-center text-white">Lorem ipsum dolor sit amet.</p>
                     <button class=" btn btn-light text-success fw-bold fs-5">Sign In</button>
                 </div>
-                <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center p-4" style="height: 40vh;">
+                <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center p-4" style="height: 60vh;">
                     <h4 class=" text-center text-success">Buyer</h4>
                     <p class=" text-center text-success fw-bold">onsectetur adipisicing elit. Molestias, omnis!</p>
                     <button class=" btn text-white btn-success fw-bold fs-5">Sign In</button>
@@ -119,7 +119,8 @@
             </div>
         </div>
     </div>
+    <script src="script.js"></script>
 </body>
-<script src="script.js"></script>
+
 
 </html>
