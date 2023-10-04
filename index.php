@@ -73,13 +73,13 @@
             </div>
         </div>
         <div class=" row mb-5">
-            <div class=" col-12 shadow-lg col-lg-8 offset-0 offset-lg-2 d-flex flex-row justify-content-center align-items-center" style="height: 40vh;">
-                <div class=" col-lg-4 col-6 bg-success d-flex flex-column justify-content-center align-items-center py-4" style="height: 40vh;">
+            <div class=" col-12 shadow-lg col-lg-6 offset-0 offset-lg-3 d-flex flex-row justify-content-center align-items-center px-0" style="height: 40vh;">
+                <div class=" col-6 bg-success d-flex flex-column justify-content-center align-items-center py-4" style="height: 40vh;">
                     <h4 class=" text-center">zsscv</h4>
                     <p class=" text-center">xcv</p>
                     <button class=" btn btn-primary">dfgdg</button>
                 </div>
-                <div class=" col-lg-4 col-6 bg-light d-flex flex-column justify-content-center align-items-center py-4" style="height: 40vh;">
+                <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center py-4" style="height: 40vh;">
                     <h4 class=" text-center">zsscv</h4>
                     <p class=" text-center">xcv</p>
                     <button class=" btn btn-primary">dfgdg</button>
