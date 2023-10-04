@@ -123,6 +123,14 @@ body {
   background-size: cover;
   background-position: center;
 }
+.our_story_icon{
+  height: 30px;
+  width: 30px;
+  background-image:url("Resources/Site_Images/1156677_leaf_media_social_icon.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 
 @media (max-width: 768px) {
   .images {
