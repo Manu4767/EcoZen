@@ -72,9 +72,9 @@
                 </div>
             </div>
         </div>
-        <div class=" row d-flex flex-row justify-content-center align-items-center" style=" height: 70vh;">
-            
-            <div class=" col-6 bg-light d-flex flex-column justify-content-center align-items-center" style=" height: 70vh; background-color:#f9f9f4;">
+        <div class=" row d-flex flex-row justify-content-center align-items-center shadow-lg" style=" height: 70vh;">
+        <div class=" col-4 our_story_image" style=" height: 70vh;"></div>
+            <div class=" col-8 bg-white d-flex flex-column justify-content-center align-items-center" style=" height: 70vh; ">
                 <h1 >Our Story</h1>
                 <p>dfggf</p>
                 <p>dfggf</p>
@@ -82,9 +82,9 @@
                 <p>dfggf</p>
                 <p>dfggf</p>
             </div>
-            <div class=" col-6 our_story_image" style=" height: 70vh;"></div>
+            
         </div>
-        <div class=" row mb-5 shadow-lg py-5">
+        <div class=" row mb-5  py-5">
             <h3 class=" text-center col-12 text-success fw-bold mb-4">I am a ...</h3>
             <div class=" col-12 shadow-lg col-lg-6 offset-0 offset-lg-3 d-flex flex-row justify-content-center align-items-center px-0" style="height: 40vh;">
                 <div class=" col-6 bg-success d-flex flex-column justify-content-center align-items-center p-4" style="height: 40vh;">
