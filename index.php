@@ -72,6 +72,17 @@
                 </div>
             </div>
         </div>
+        <div class=" row d-flex flex-row justify-content-center align-items-center" style=" height: 70vh;">
+            <div class=" col-6 our_story_image" style=" height: 70vh;"></div>
+            <div class=" col-6 bg-success" style=" height: 70vh;">
+                <h1>dfgdfg</h1>
+                <p>dfggf</p>
+                <p>dfggf</p>
+                <p>dfggf</p>
+                <p>dfggf</p>
+                <p>dfggf</p>
+            </div>
+        </div>
         <div class=" row mb-5 shadow-lg py-5">
             <h3 class=" text-center col-12 text-success fw-bold mb-4">I am a ...</h3>
             <div class=" col-12 shadow-lg col-lg-6 offset-0 offset-lg-3 d-flex flex-row justify-content-center align-items-center px-0" style="height: 40vh;">

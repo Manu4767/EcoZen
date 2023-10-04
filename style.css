@@ -115,6 +115,14 @@ body {
   background-size: cover;
   background-position: center;
 }
+.our_story_image{
+  height: 100%;
+  /* width: 100%; */
+  background-image:url("Resources/Site_Images/Lemon_-removebg-preview.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
 
 @media (max-width: 768px) {
   .images {
